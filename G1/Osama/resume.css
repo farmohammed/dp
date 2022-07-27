@@ -1,0 +1,108 @@
+
+
+#website_header{
+color:darkblue;
+border:solid 10px;
+border-style: groove;
+border-radius: 50px;
+text-align: center;
+font-size: 60px;
+border-color: aqua;
+
+
+
+}
+
+
+.website_wrapper{
+color: blue;
+font-size: 30px;
+border: solid;
+border-radius: 50px;
+border-end-end-radius: 400px;
+padding: 5px ;
+margin: 20px;
+margin-right: 1000px;
+border-color: chartreuse;
+
+}
+
+
+.contact{
+font-size: 20px;
+border: solid;    
+border-left-color: blueviolet;
+border-right-color: blueviolet;
+border-radius: 35px;
+margin: 1px 70px 10px 70px;
+
+
+
+
+}
+
+.name{
+    color: blueviolet;
+    text-align: center;
+  border: solid;
+  border-radius: 50px;
+  border-start-end-radius: 500px;
+  border-end-start-radius: 300px;
+  border-end-end-radius: 500px;
+  margin: 100px 5px 5px 5px ;
+font-family: changa;
+font-weight: 900;
+
+
+}
+.email{
+  color: blueviolet;
+  text-align: center;
+  border: solid;
+  border-radius: 50px;
+  border-start-end-radius: 500px;
+  border-end-start-radius: 300px;
+  border-end-end-radius: 500px;
+  margin: 100px 5px 5px 5px ;
+font-family: changa;
+font-weight: 900;
+    
+}
+
+
+.pic{ 
+
+    border: dashed;
+    border-radius: 15px;
+    margin-right: 1190px;
+    margin-left: 10px;
+}
+
+.skills{
+    color: blue;
+    font-size: 30px;
+    border: solid;
+    border-radius: 50px;
+    border-end-end-radius: 400px;
+    padding: 5px ;
+    margin: 20px;
+    margin-right: 1000px;
+    border-color: chartreuse;
+}
+
+.info1{
+  color:blueviolet;
+  font-size: 20px;
+  margin-left: 30px;
+  border: groove;
+  border-radius: 50px;
+  border-start-end-radius: 500px;
+  border-end-start-radius: 300px;
+  border-end-end-radius: 500px;
+  margin-right: 1100px;
+  padding-bottom: 40px;
+  font-family: changa;
+}
+
+
+
