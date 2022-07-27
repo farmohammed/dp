@@ -1,0 +1,89 @@
+body{
+	background:linear-gradient(rgb(0,0,0,77%),rgb(0,0,0,62%)), url(../img/pexels-j%C3%A9shoots-218863.jpg) no-repeat center;
+	background-size: cover;
+	height: 900px;
+}
+.box {
+    margin-top: 200px;
+    padding: 73px 6px 15px 6px;
+    background: #c0c0c03d;
+    height: 71%;
+	box-shadow: 0 0 7px #fbb400;
+}
+
+.left {
+    width: 40%;
+    float: left;
+    background: #ffffff5c;
+    text-align: center;
+    margin-top: 121px;
+    border-radius: 5px;
+     box-shadow: 0 0 20px #0000007a;
+	padding: 8px;
+}
+.left:hover {
+    background: #3b3a3926;
+    box-shadow: 0 0 20px #fff;
+	    transition: 0.5s;
+}
+img {
+    max-width: 105px;
+    border-radius: 50%;
+}
+h1 {
+    color: #fff;
+    text-transform: uppercase;
+}
+p.p1 {
+    color: #fbb400;
+    font-size: 14px;
+}
+.right {
+    float: right;
+    width: 50%;
+}
+h2 {
+    background: #fbb400;
+    padding: 10px;
+    display: inline;
+    border-radius: 5px;
+    color: #282827;
+}
+p.p2 {
+    font-size: 14px;
+    color: #fff;
+}
+h4 {
+    /* font-size: 14px; */
+    color: #fbb400;
+    text-transform: uppercase;
+}
+p.p3 {
+    font-size: 14px;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 11px;
+    color: #fff;
+}
+li {
+    font-size: 12px;
+    color: #fff;
+    padding: 8px;
+}
+p.p2 {
+	display: inline-block;
+    font-size: 14px;
+    color: #fbb400;
+    text-shadow: 0 0 8px #b1b1b1;
+}
+h5 {
+    background: #282827;
+    padding: 10px;
+    display: inline;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fbb400;
+}
+.i {
+    color: #fff;
+    font-size: 18px;
+}
