@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/a.jpg");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color:tomato;
+}
+h1{
+    color:cornsilk;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: oldlace;
+
+}
+#light_layer{
+ width: 85%;
+ height: 700px;
+ background-color:rgba(0, 0, 0, 0.7);
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 6%;
+ margin-bottom: 6%;
+ border-radius: 10px;
+}
+.photo{
+    width: 50%;
+    margin-left: 4%;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border: solid 4px white;
+    border-radius: 50%;
+}
+
+.about{
+  margin-left: 45px;  
+}
+
+.right_block{
+    float: right;
+    display: inline-block;
+    margin-top: -600px;
+    margin-left: 30px;
+    margin-right: 100px;
+}
+
+button{
+    color: blue;
+    background-color: skyblue;
+    width: 90px;
+    height: 30px;
+    border: 0;
+    border-radius: 15px;
+
+}
