@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+  padding: 0;
+  list-style: none;
+  border-right: 0px;
+ }
+body {
+    background: #585c68;
+    font-size: 14px;
+    line-height: 50px;
+    color: #555555;
+  }
+  
+#PageHead{
+    font-size: 50px;
+    color:beige;
+    text-align:center;
+}
+.border{
+    direction: rtl;
+    height: auto;
+     border:solid 2px;/* حدود للفقرة مثلا غامق*/
+    border-color:rgb(14, 105, 101);
+border-radius: 30px;/*للتحكم بحافة حدود الفقرة */
+background-color:white ;
+padding: 10px 25px 20px;/*لعمل مسافة فوق وتحت الفقرة1فوق 2 يمين 3 تحت 4 يسار.*/
+margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+.TextRight{
+    text-align: right;
+    color:#706fd3;
+    font-size: 30px;
+   border-right: 0ch;
+}
+.Text{
+   color:black;
+   font-size: 20px;
+}
+.icon {
+    display:inline-block;
+    vertical-align:top;
+    width: 30px;
+    height: 30px;
+   margin-right:0px;  
+}
+.Bold_{
+    color: #474787;
+    font-size:20px;
+    font-weight:bolder ;
+  margin: 20px;
+ 
+}
+  
